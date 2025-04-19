@@ -35,3 +35,6 @@ This is a simple **Snake-Water-Gun** game built using **JavaScript**. The game a
 1. Clone this repository to your local machine:
    ```bash
    git clone https://github.com/js-ultimate-snake-water-gun.git
+
+2. Navigate to the project Folder
+3. node SWG.js
