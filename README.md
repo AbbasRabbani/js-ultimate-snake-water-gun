@@ -11,6 +11,7 @@ This is a simple **Snake-Water-Gun** game built using **JavaScript**. The game a
   - **Snake** beats **Water**.
   - If both the player and the computer pick the same option, it's a **draw**.
 
+
 ### Game Flow:
 1. The player is prompted to enter a choice.
 2. The computer randomly selects its choice.
